@@ -1,0 +1,2309 @@
+<!DOCTYPE html>
+<html lang="en" id="top">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- normalize css files -->
+    <link rel="stylesheet" href="CSS Files/Normalize.Css" />
+    <!-- fontawsome css file -->
+    <link rel="stylesheet" href="CSS Files/all.min.css" />
+    <!-- main css file -->
+    <link rel="stylesheet" href="CSS Files/Master.CSS">
+    <!-- open sans font files -->
+    <!-- font-family: 'Open Sans', sans-serif; -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- ionicons js files -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <title>Kasper-Template-2</title>
+</head>
+
+<body>
+    <!-- Start Nav:- -->
+    <nav>
+        <div class="container">
+            <div class="logo">
+                <a href="#top">
+                    <img src="Data/logo.png" alt="Logo-Image">
+                </a>
+            </div>
+            <div class="links">
+                <ul>
+                    <li>
+                        <a href="#top">home</a>
+                    </li>
+                    <li>
+                        <a href="#services">services</a>
+                    </li>
+                    <li>
+                        <a href="#portfolio">portfolio</a>
+                    </li>
+                    <li>
+                        <a href="#about">about</a>
+                    </li>
+                    <li>
+                        <a href="#pricing">pricing</a>
+                    </li>
+                    <li>
+                        <a href="#contact">contacct</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="right-nav">
+                <div class="links-icon">
+                    <a>
+                        <i class="fa-solid fa-bars"></i>
+                    </a>
+                </div>
+                <div class="search">
+                    <a>
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- End Nav -->
+    <!-- Start Main:- -->
+    <main>
+        <!-- Start Greeting:- -->
+        <section class="greeting">
+            <div class="left">
+                <div class="cont">
+                    <div class="arrow">
+                        <a href="">
+                            <i class="fa-solid fa-chevron-left"></i>
+                        </a>
+                    </div>
+                    <div class="text">
+                        <h1>hello world! <br> we are kasper we make art.</h1>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, tempore ducimus possimus voluptatibus autem blanditiis dolorum deleniti sit, aperiam laudantium quo illo voluptate architecto ratione reiciendis unde molestiae natus vitae.
+                        </p>
+                    </div>
+                    <div class="ri-arrow">
+                        <a href="">
+                            <i class="fa-solid fa-chevron-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <a href="">
+                    <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+            <div class="circles">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </section>
+        <!-- End Greeting -->
+        <!-- Start Services:- -->
+        <section class="services" id="services">
+            <div class="container">
+                <div class="head">
+                    <h1>services</h1>
+                    <div class="shape">
+                        <hr>
+                        <div></div>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                    </p>
+                </div>
+                <div class="cont">
+                    <div class="item">
+                        <div>
+                            <ion-icon name="tv-outline"></ion-icon>
+                        </div>
+                        <div>
+                            <h3>vorem amet intuitive</h3>
+                            <p>
+                                lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quae similique quia nobis pariatur, quo est, maiores illo aperiam laudantium aliquam.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div>
+                            <ion-icon name="settings-outline"></ion-icon>
+                        </div>
+                        <div>
+                            <h3>vorem amet intuitive</h3>
+                            <p>
+                                lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quae similique quia nobis pariatur, quo est, maiores illo aperiam laudantium aliquam.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div>
+                            <ion-icon name="construct-outline"></ion-icon>
+                        </div>
+                        <div>
+                            <h3>vorem amet intuitive</h3>
+                            <p>
+                                lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quae similique quia nobis pariatur, quo est, maiores illo aperiam laudantium aliquam.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div>
+                            <ion-icon name="camera-outline"></ion-icon>
+                        </div>
+                        <div>
+                            <h3>vorem amet intuitive</h3>
+                            <p>
+                                lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quae similique quia nobis pariatur, quo est, maiores illo aperiam laudantium aliquam.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Services -->
+        <!-- Start Feature:- -->
+        <section class="feature">
+            <div class="left">
+                <div>
+                    <img src="Data/Design-Feature.png" alt="Design-Feature-image">
+                </div>
+            </div>
+            <div class="right">
+                <div class="cont">
+                    <h3>our designs come with....</h3>
+                    <div>
+                        <ion-icon name="laptop-outline"></ion-icon>
+                        <p>responsive design</p>
+                    </div>
+                    <div>
+                        <ion-icon name="laptop-outline"></ion-icon>
+                        <p>modern and clean design</p>
+                    </div>
+                    <div>
+                        <ion-icon name="laptop-outline"></ion-icon>
+                        <p>clean code</p>
+                    </div>
+                    <div>
+                        <ion-icon name="laptop-outline"></ion-icon>
+                        <p>browser friendly</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Feature -->
+        <!-- Start Portfolio:- -->
+        <section class="portfolio" id="portfolio">
+            <div class="container">
+                <div class="head">
+                    <h1>portfolio</h1>
+                    <div class="shape">
+                        <hr>
+                        <div></div>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                    </p>
+                </div>
+                <div class="cont">
+                    <ul>
+                        <li>
+                            <a href="">all</a>
+                        </li>
+                        <li>
+                            <a href="">app</a>
+                        </li>
+                        <li>
+                            <a href="">photography</a>
+                        </li>
+                        <li>
+                            <a href="">web</a>
+                        </li>
+                        <li>
+                            <a href="">print</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- End Portfolio -->
+        <!-- Start Images:- -->
+        <section class="images">
+            <div class="cont">
+                <div>
+                    <img src="Data/15.jpg" alt="">
+                </div>
+                <div class="add">
+                    <span>
+                        <a href="">
+                            <ion-icon name="add-outline"></ion-icon>
+                        </a>
+                    </span>
+                    <img src="Data/25.jpg" alt="">
+                </div>
+                <div>
+                    <img src="Data/10.jpg" alt="">
+                </div>
+                <div>
+                    <img src="Data/5.jpg" alt="">
+                </div>
+                <div>
+                    <img src="Data/6.jpg" alt="">
+                </div>
+                <div>
+                    <img src="Data/7.jpg" alt="">
+                </div>
+                <div>
+                    <img src="Data/8.jpg" alt="">
+                </div>
+                <div>
+                    <img src="Data/11.jpg" alt="">
+                </div>
+            </div>
+            <div class="btn">
+                <input type="button" value="more">
+            </div>
+        </section>
+        <!-- End Images -->
+        <!-- Start Video:- -->
+        <section class="video">
+            <div class="cont">
+                <h1>super awesome video here</h1>
+                <p>its all you need</p>
+                <div class="btn">
+                    <input type="button" value="see more">
+                </div>
+            </div>
+        </section>
+        <!-- End Video -->
+        <!-- Start About:- -->
+        <section class="about" id="about">
+            <div class="container">
+                <div class="head">
+                    <h1>about</h1>
+                    <div class="shape">
+                        <hr>
+                        <div></div>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                    </p>
+                </div>
+                <div class="cont">
+                    <div>
+                        <img src="Data/About-Iamge.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End About -->
+        <!-- Start Statistic:- -->
+        <section class="statistic">
+            <div class="container">
+                <div>
+                    <div>
+                        <ion-icon name="cafe-outline"></ion-icon>
+                    </div>
+                    <h1>1,263</h1>
+                    <p>coffee drinks</p>
+                </div>
+                <div>
+                    <div>
+                        <ion-icon name="folder-outline"></ion-icon>
+                    </div>
+                    <h1>256</h1>
+                    <p>completed projects</p>
+                </div>
+                <div>
+                    <div>
+                        <ion-icon name="mail-outline"></ion-icon>
+                    </div>
+                    <h1>1,743</h1>
+                    <p>mail send</p>
+                </div>
+                <div>
+                    <div>
+                        <ion-icon name="trophy-outline"></ion-icon>
+                    </div>
+                    <h1>17</h1>
+                    <p>awards received</p>
+                </div>
+            </div>
+        </section>
+        <!-- End Statistic -->
+        <!-- Start Skills:- -->
+        <section class="skills">
+            <div class="container">
+                <div class="left">
+                    <div class="head">
+                        <h1>testimonials</h1>
+                        <div class="shape">
+                            <hr>
+                            <div></div>
+                        </div>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                        </p>
+                    </div>
+                    <div class="cont">
+                        <div class="data">
+                            <div class="item">
+                                <div>
+                                    <img src="Data/Person-One-Image.jpg" alt="">
+                                </div>
+                                <div>
+                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos rerum iure, labore fuga asperiores maiores ea veritatis maxime eius expedita doloribus.</p>
+                                    <label>jhon doe, <span>ceo</span></label>
+                                    <hr>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div>
+                                    <img src="Data/Person-Two-Image.jpg" alt="">
+                                </div>
+                                <div>
+                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos rerum iure, labore fuga asperiores maiores ea veritatis maxime eius expedita doloribus.</p>
+                                    <label>jhon doe, <span>ceo</span></label>
+                                    <hr>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="circles">
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="head">
+                        <h1>our skills</h1>
+                        <div class="shape">
+                            <hr>
+                            <div></div>
+                        </div>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                        </p>
+                    </div>
+                    <div class="cont">
+                        <div class="parsent">
+                            <p>adobe</p>
+                            <div class="bar">
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="parsent">
+                            <p>html & css</p>
+                            <div class="bar">
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="parsent">
+                            <p>javascript</p>
+                            <div class="bar">
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="parsent">
+                            <p>php</p>
+                            <div class="bar">
+                                <div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Skills -->
+        <!-- Start Quote:- -->
+        <section class="quote">
+            <div class="container">
+                <h1>
+                    "Lorem ipsum dolor sit amet consectetur adipisicing elit, Odio quae quasi sed. Eos eius sapiente sed animi veniam."
+                </h1>
+                <p>john doe</p>
+            </div>
+        </section>
+        <!-- End Quote -->
+        <!-- Start Pricing:- -->
+        <section class="pricing" id="pricing">
+            <div class="container">
+                <div class="head">
+                    <h1>pricing</h1>
+                    <div class="shape">
+                        <hr>
+                        <div></div>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                    </p>
+                </div>
+                <div class="cont">
+                    <div class="package">
+                        <hr>
+                        <div class="price">
+                            <p>basic</p>
+                            <h1>19</h1>
+                        </div>
+                        <hr>
+                        <div class="feats">
+                            <p>feature no 1</p>
+                            <hr>
+                            <p>feature no 2</p>
+                            <hr>
+                            <p>feature no 3</p>
+                            <hr>
+                            <p>feature no 4</p>
+                        </div>
+                        <hr>
+                        <div class="btn">
+                            <input type="button" value="buy now">
+                        </div>
+                    </div>
+                    <div class="package">
+                        <hr>
+                        <div class="price">
+                            <p>premium</p>
+                            <h1>29</h1>
+                        </div>
+                        <hr>
+                        <div class="feats">
+                            <p>feature no 1</p>
+                            <hr>
+                            <p>feature no 2</p>
+                            <hr>
+                            <p>feature no 3</p>
+                            <hr>
+                            <p>feature no 4</p>
+                        </div>
+                        <hr>
+                        <div class="btn">
+                            <input type="button" value="buy now">
+                        </div>
+                    </div>
+                    <div class="package">
+                        <hr>
+                        <div class="price">
+                            <p>pro</p>
+                            <h1>39</h1>
+                        </div>
+                        <hr>
+                        <div class="feats">
+                            <p>feature no 1</p>
+                            <hr>
+                            <p>feature no 2</p>
+                            <hr>
+                            <p>feature no 3</p>
+                            <hr>
+                            <p>feature no 4</p>
+                        </div>
+                        <hr>
+                        <div class="btn">
+                            <input type="button" value="buy now">
+                        </div>
+                    </div>
+                    <div class="package">
+                        <hr>
+                        <div class="price">
+                            <p>platinum</p>
+                            <h1>49</h1>
+                        </div>
+                        <hr>
+                        <div class="feats">
+                            <p>feature no 1</p>
+                            <hr>
+                            <p>feature no 2</p>
+                            <hr>
+                            <p>feature no 3</p>
+                            <hr>
+                            <p>feature no 4</p>
+                        </div>
+                        <hr>
+                        <div class="btn">
+                            <input type="button" value="buy now">
+                        </div>
+                    </div>
+                </div>
+                <div class="btn">
+                    <p>contact us if you have special request</p>
+                    <input type="button" value="contact us">
+                </div>
+            </div>
+        </section>
+        <!-- End Pricing -->
+        <!-- Start Subscribe:- -->
+        <section class="subscribe">
+            <div class="container">
+                <div class="left">
+                    <ion-icon name="mail-outline"></ion-icon>
+                    <input type="text" placeholder="your mail">
+                    <input type="button" value="subscribe">
+                </div>
+                <div class="right">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam voluptatum id, officia voluptatem neque at corporis amet tenetur.
+                </div>
+            </div>
+        </section>
+        <!-- End Subscribe -->
+        <!-- Start Contact:- -->
+        <section class="contact" id="contact">
+            <div class="container">
+                <div class="head">
+                    <h1>contact us</h1>
+                    <div class="shape">
+                        <hr>
+                        <div></div>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sint, quidem ad eius corporis consequuntur.
+                    </p>
+                </div>
+                <div class="cont">
+                    <div class="left">
+                        <div>
+                            <input type="text" placeholder="your name">
+                            <input type="email" placeholder="your mail">
+                            <textarea name="message" cols="30" rows="10" placeholder="your message"></textarea>
+                        </div>
+                    </div>
+                    <div class="right">
+                        <div>
+                            <h3>get in touch</h3>
+                            <p>+00 123.456.789</p>
+                            <p>+00 123.443.249</p>
+                        </div>
+                        <div>
+                            <h3>where we are</h3>
+                            <address>
+                            awesome address 17 
+                            <br>
+                            new york, <span>nyc</span> 
+                            <br>
+                            123-4567-890 
+                            <br>
+                            <span>usa</span>
+                        </address>
+                        </div>
+                    </div>
+                </div>
+                <div class="btn">
+                    <input type="button" value="send massage">
+                </div>
+            </div>
+        </section>
+        <!-- End Contact -->
+        <!-- Start Top:- -->
+        <section class="Top">
+            <a href="#top">
+                <i class="fa-solid fa-chevron-up"></i>
+            </a>
+        </section>
+        <!-- End Top -->
+    </main>
+    <!-- End Main -->
+    <!-- Start Footer:- -->
+    <footer>
+        <div class="container">
+            <div class="cont">
+                <div>
+                    <img src="Data/logo.png" alt="">
+                </div>
+                <div>
+                    <p>we are social</p>
+                    <hr>
+                    <div class="social-icons">
+                        <div>
+                            <a href="https://www.facebook.com/" target="_blank">
+                                <ion-icon name="logo-facebook"></ion-icon>
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://www.instagram.com/" target="_blank">
+                                <ion-icon name="logo-instagram"></ion-icon>
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://twitter.com/" target="_blank">
+                                <ion-icon name="logo-twitter"></ion-icon>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="rights">
+                <p>redesign by <span>mohamed nassar</span></p>
+                <p>
+                    &copy; 2014 - <span>kasper</span>, all right reservsed
+                </p>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+</body>
+
+
+</html>
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+/* Start General Styling:- */
+
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    padding: 0;
+    margin: 0;
+    margin-left: 20px;
+}
+
+ul li:first-child {
+    margin-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.container {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input[type="button"],
+a,
+i,
+ion-icon {
+    transition: var(--animation-time, 0.3s);
+    -webkit-transition: var(--animation-time, 0.3s);
+    -moz-transition: var(--animation-time, 0.3s);
+    -ms-transition: var(--animation-time, 0.3s);
+    -o-transition: var(--animation-time, 0.3s);
+}
+
+
+/* Start Circles Styling:-  */
+
+.circles {
+    display: flex;
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+
+.circles>div {
+    width: 10px;
+    height: 10px;
+    border: 1px solid var(--white-color, #FFF);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.circles>div:not(:first-child) {
+    margin-left: 10px;
+}
+
+.circles>div:nth-child(2) {
+    background-color: var(--main-color, #00c7fc);
+    border-color: var(--main-color, #00c7fc);
+}
+
+@media (max-width: 435px) {
+    .circles>div {
+        width: 7px;
+        height: 7px;
+    }
+}
+
+
+/* End Circles Styling  */
+
+
+/* Start Section-Heading Styling:-  */
+
+.head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: var(--up-down-padding, 60px);
+}
+
+.head h1 {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    text-transform: uppercase;
+    font-weight: var(--header-font-weight, 400);
+    color: var(--footer-main-color, #1f2021);
+    margin: 0;
+}
+
+.head .shape {
+    width: 80px;
+    padding: var(--element-padding, 15px) 0;
+    position: relative;
+}
+
+.head .shape hr {
+    width: 100%;
+    background-color: var(--footer-main-color, #1f2021);
+}
+
+.head .shape div {
+    height: 10px;
+    width: 10px;
+    background-color: var(--white-color, #FFF);
+    border: 1px solid var(--footer-main-color, #1f2021);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+.head p {
+    color: var(--main-para-color, #a8a8a8);
+    margin: 0;
+    line-height: 1.8;
+}
+
+
+/* End Section-Heading Styling  */
+
+
+/* Start Button Styling:-  */
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="button"] {
+    padding: 10px 20px;
+    color: var(--white-color, #FFF);
+    background-color: var(--main-color, #00c7fc);
+    border: 1px solid var(--main-color, #00c7fc);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    color: var(--main-color, #00c7fc);
+    background-color: var(--white-color, #FFF);
+}
+
+
+/* End ButtonStyling  */
+
+
+/* E-small */
+
+@media (max-width: 575px) {
+    .container {
+        padding: 0 10px;
+        width: 100%;
+    }
+}
+
+
+/* small */
+
+@media (min-width: 576px) {
+    .container {
+        width: 540px;
+    }
+}
+
+
+/* medium */
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+
+
+/* large */
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+
+/* x-large */
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+
+/* xx-large */
+
+@media (min-width: 1400px) {
+    .container {
+        width: 1320px;
+    }
+}
+
+
+/* End General Styling */
+
+
+/* Start Variables Styling:- */
+
+ :root {
+    --main-background-color: #1f2021;
+    --sec-background-color: #0f748f;
+    --main-color: #00c7fc;
+    --main-para-color: #a8a8a8;
+    --footer-main-color: #121116;
+    --white-color: #FFF;
+    --element-padding: 15px;
+    --up-down-padding: 60px;
+    --small-sec-padding: 100px;
+    --header-font-weight: 400;
+    --animation-time: 0.3s;
+}
+
+
+/* End Variables Styling */
+
+
+/* Start Nav Styling:- */
+
+nav {
+    width: 100%;
+    background-color: #00000073;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    z-index: 1;
+}
+
+nav .container {
+    padding: var(--element-padding, 15px) 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid var(--white-color, #FFF);
+}
+
+nav .container a {
+    color: var(--white-color, #FFF);
+}
+
+nav .container a:hover {
+    color: var(--main-color, #00c7fc);
+}
+
+nav .container .logo a {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    display: inline-block;
+}
+
+nav .container .logo img {
+    width: 120px;
+}
+
+nav .container .links a {
+    text-transform: uppercase;
+}
+
+nav .container .links a:hover {
+    color: var(--main-color, #00c7fc);
+    border-bottom: 2px solid var(--main-color, #00c7fc);
+    padding-bottom: 29px;
+}
+
+nav .container .links li:first-child a {
+    color: var(--main-color, #00c7fc);
+    border-bottom: 2px solid var(--main-color, #00c7fc);
+    padding-bottom: 29px;
+}
+
+nav .container .links ul {
+    display: flex;
+}
+
+nav .container .right-nav {
+    display: flex;
+    align-items: center;
+}
+
+nav .container .right-nav .links-icon {
+    font-size: 1.5rem;
+    padding: 0 var(--element-padding, 15px);
+    display: none;
+}
+
+nav .container .right-nav .search {
+    padding: 0 var(--element-padding, 15px);
+    border-left: 2px solid var(--white-color, #FFF);
+}
+
+@media (max-width: 767px) {
+    nav .container .right-nav .links-icon {
+        display: initial;
+    }
+    nav .container .links {
+        display: none;
+    }
+}
+
+
+/* End Nav Styling */
+
+
+/* Start Main Styling:- */
+
+
+/* Start Greeting Styling:- */
+
+.greeting {
+    background-image: url(../Data/16.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: var(--up-down-padding, 60px) 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.greeting a i:hover {
+    color: var(--main-color, #00c7fc);
+}
+
+.greeting i {
+    color: var(--white-color, #FFF);
+    font-size: 1.5rem;
+    padding: 0 var(--element-padding, 15px);
+}
+
+.greeting .left {
+    width: 50%;
+    background-color: var(--sec-background-color, #0f748f);
+}
+
+.greeting .left .cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.greeting .left .cont .text {
+    width: 75%;
+    padding: var(--up-down-padding, 60px);
+    color: var(--white-color, #FFF);
+    line-height: 1.8;
+}
+
+.greeting .left .cont .text h1 {
+    text-transform: uppercase;
+    font-weight: var(--header-font-weight, 400);
+}
+
+.greeting .left .cont .ri-arrow {
+    display: none;
+}
+
+@media (max-width: 1399px) {
+    .greeting .left {
+        width: 60%;
+    }
+    .greeting .left .cont .text {
+        width: 80%;
+    }
+}
+
+@media (max-width: 1199px) {
+    .greeting .left {
+        width: 65%;
+    }
+    .greeting .left .cont .text {
+        width: 80%;
+    }
+}
+
+@media (max-width: 991px) {
+    .greeting .left {
+        width: 70%;
+    }
+    .greeting .left .cont .text {
+        width: 85%;
+    }
+}
+
+@media (max-width: 767px) {
+    .greeting .left {
+        width: 80%;
+    }
+    .greeting .left .cont .text {
+        width: 90%;
+    }
+}
+
+@media (max-width: 575px) {
+    .greeting .left {
+        width: 100%;
+    }
+    .greeting .left .cont .text {
+        width: 90%;
+        padding: var(--element-padding, 15px);
+    }
+    .greeting .left .cont .ri-arrow {
+        display: initial;
+    }
+    .greeting .right {
+        display: none;
+    }
+}
+
+@media (max-width: 435px) {
+    .greeting .left .cont .text h1 {
+        font-size: 1.5rem;
+    }
+}
+
+
+/* End Greeting Styling */
+
+
+/* Start Services Styling:- */
+
+.services {
+    padding: var(--up-down-padding, 60px) 0;
+}
+
+.services .container .cont {
+    text-transform: capitalize;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: var(--up-down-padding, 60px);
+}
+
+.services .container .cont .item {
+    display: flex;
+}
+
+.services .container .cont .item div:first-child ion-icon {
+    padding-right: var(--up-down-padding, 60px);
+    color: var(--main-background-color, #1f2021);
+    font-size: 2rem;
+    opacity: 0.7;
+}
+
+.services .container .cont .item div:last-child h3 {
+    margin-top: 0;
+    font-weight: var(--header-font-weight, 400);
+    color: var(--main-color, #00c7fc);
+    font-size: 1.5rem;
+}
+
+.services .container .cont .item div:last-child p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--main-para-color, #a8a8a8);
+}
+
+@media (max-width: 576px) {
+    .services .container .cont {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: var(--element-padding, 15px);
+    }
+    .services .container .cont .item {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .services .container .cont .item div:first-child ion-icon {
+        padding-right: 0;
+        padding-bottom: var(--element-padding, 15px);
+        opacity: 0.7;
+    }
+    .services .container .cont .item div:last-child h3 {
+        font-size: 1rem;
+    }
+    .services .container .cont .item div:last-child p {
+        font-size: 0.9rem;
+    }
+}
+
+
+/* End Services Styling */
+
+
+/* Start Feature Styling:- */
+
+.feature {
+    min-height: 50Vh;
+    width: 100%;
+    padding: var(--up-down-padding, 60px) 0;
+    display: flex;
+    align-items: center;
+    background-image: url(../Data/1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: var(--white-color, #FFF);
+    position: relative;
+}
+
+.feature .left,
+.feature .right {
+    width: 50%;
+    height: 100%;
+}
+
+.feature .left div {
+    width: 350px;
+    position: absolute;
+    bottom: -3px;
+    right: calc(50% + 60px);
+}
+
+.feature .left div img {
+    width: 100%;
+}
+
+.feature .right .cont {
+    background-color: var(--sec-background-color, #0f748f);
+    padding: var(--up-down-padding, 60px);
+}
+
+.feature .right .cont h3 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: var(--header-font-weight, 400);
+    padding-bottom: var(--element-padding, 15px);
+    margin: 0 0 var(--up-down-padding, 60px);
+}
+
+.feature .right .cont div {
+    display: flex;
+    align-items: center;
+    padding-bottom: var(--element-padding, 15px);
+}
+
+.feature .right .cont div:last-child {
+    padding: 0;
+}
+
+.feature .right .cont div ion-icon {
+    padding-right: var(--element-padding, 15px);
+}
+
+.feature .right .cont div p {
+    text-transform: capitalize;
+    margin: 0;
+}
+
+@media (max-width: 991px) {
+    .feature .left div {
+        width: 250px;
+    }
+}
+
+@media (max-width: 767px) {
+    .feature {
+        flex-direction: column;
+    }
+    .feature .left,
+    .feature .right {
+        width: 100%;
+    }
+    .feature .right .cont h3 {
+        font-size: 1rem;
+    }
+    .feature .right .cont div p {
+        font-size: 0.8rem;
+    }
+    .feature .left {
+        display: flex;
+        justify-content: center;
+    }
+    .feature .left div {
+        position: initial;
+        display: flex;
+        align-items: flex-end;
+    }
+}
+
+
+/* End Feature Styling */
+
+
+/* Start Portfolio Styling:- */
+
+.portfolio {
+    padding: var(--up-down-padding, 60px) 0;
+}
+
+.portfolio .cont {
+    max-width: 500px;
+    margin: auto;
+}
+
+.portfolio .cont ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.portfolio .cont ul li {
+    margin: 0;
+}
+
+.portfolio .cont ul li a {
+    padding: 10px 20px;
+    text-transform: capitalize;
+}
+
+.portfolio .cont ul li a:hover:not(ul li:first-child a) {
+    color: var(--white-color, #FFF);
+    background-color: var(--main-color, #00c7fc);
+}
+
+.portfolio .cont ul li:first-child a {
+    color: var(--white-color, #FFF);
+    background-color: var(--main-color, #00c7fc);
+}
+
+@media (max-width: 575px) {
+    .portfolio .cont ul {
+        flex-direction: column;
+        justify-content: initial;
+    }
+    .portfolio .cont ul li a {
+        display: inline-block;
+        width: 140px;
+        text-align: center;
+    }
+    .portfolio .cont ul li a:not(ul li:first-child a) {
+        margin-top: 10px;
+    }
+}
+
+
+/* End Portfolio Styling */
+
+
+/* Start Images Styling:- */
+
+.images .cont {
+    width: 100%;
+    height: calc(100% - 98.4px);
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: var(--element-padding, 15px);
+}
+
+.images .cont div {
+    width: 25%;
+}
+
+.images .cont div img {
+    width: 100%;
+    height: 100%;
+}
+
+.images .cont div.add::before {
+    content: "photography";
+    text-transform: capitalize;
+    color: var(--main-color, #00c7fc);
+    font-size: 0.8rem;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    z-index: 1;
+}
+
+.images .cont div.add span ion-icon {
+    opacity: 0.9;
+    padding: var(--element-padding, 15px);
+    background-color: var(--main-color, #00c7fc);
+    color: white;
+    font-size: 2rem;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    -webkit-transform: translate(-50%, -100%);
+    -moz-transform: translate(-50%, -100%);
+    -ms-transform: translate(-50%, -100%);
+    -o-transform: translate(-50%, -100%);
+}
+
+.images .cont div.add span ion-icon:hover {
+    color: var(--main-color, #00c7fc);
+    background-color: var(--white-color, #FFF);
+}
+
+.images .cont div.add {
+    position: relative;
+}
+
+.images .cont div.add::after {
+    content: "awesome image";
+    width: 100%;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: var(--element-padding, 15px) var(--element-padding, 15px) 35px;
+    background-color: var(--white-color, #FFF);
+}
+
+.images .btn {
+    padding-bottom: var(--up-down-padding, 60px);
+}
+
+@media (max-width: 991px) {
+    .images .cont div {
+        width: 50%;
+    }
+}
+
+@media (max-width: 575px) {
+    .images .cont div {
+        width: 100%;
+    }
+}
+
+
+/* End Images Styling */
+
+
+/* Start Video Styling:- */
+
+.video {
+    padding: var(--small-sec-padding, 100px) 0;
+    background-image: url(../Data/8.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.video .cont {
+    background-color: var(--sec-background-color, #0f748f);
+    padding: var(--up-down-padding, 60px);
+    text-align: center;
+    color: var(--white-color, #FFF);
+}
+
+.video .cont h1 {
+    margin: 0 0 30px;
+    text-transform: uppercase;
+    font-weight: var(--header-font-weight, 400);
+}
+
+.video .cont p {
+    margin: 0 0 30px;
+    text-transform: capitalize;
+}
+
+.video .cont .btn input[type="button"] {
+    background-color: var(--main-background-color, #1f2021);
+    border: 1px solid var(--main-background-color, #1f2021);
+}
+
+.video .cont .btn input[type="button"]:hover {
+    background-color: #0f748f;
+    color: var(--white-color, #FFF);
+}
+
+@media (max-width: 575px) {
+    .video .cont h1 {
+        font-size: 1rem;
+    }
+    .video .cont p {
+        font-size: 0.9rem;
+    }
+}
+
+
+/* End Video Styling */
+
+
+/* Start About Styling:- */
+
+.about .head {
+    padding-top: var(--up-down-padding, 60px);
+}
+
+.about .cont {
+    display: flex;
+    justify-content: center;
+}
+
+.about .cont div {
+    max-width: 600px;
+    display: flex;
+    align-items: flex-end
+}
+
+.about .cont div img {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* End About Styling */
+
+
+/* Start Statistic Styling:- */
+
+.statistic {
+    padding: var(--up-down-padding, 60px) 0;
+    background-image: url(../Data/15.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.statistic .container {
+    background-color: var(--sec-background-color, #0f748f);
+    padding: var(--element-padding, 15px);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.statistic .container div {
+    padding: var(--element-padding, 15px);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: var(--white-color, #FFF);
+}
+
+.statistic .container div div {
+    background-color: var(--main-background-color, #1f2021);
+    padding: 0;
+    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+}
+
+.statistic .container div div ion-icon {
+    padding: 10px;
+}
+
+.statistic .container div h1 {
+    font-size: 3em;
+    margin-top: var(--element-padding, 15px);
+    margin-bottom: var(--element-padding, 15px);
+}
+
+.statistic .container div p {
+    margin: 0;
+    text-transform: capitalize;
+}
+
+@media (max-width: 560px) {
+    .statistic .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 767px) {
+    .statistic .container div h1 {
+        font-size: 1.5em;
+    }
+    .statistic .container div p {
+        font-size: 0.7rem;
+    }
+}
+
+
+/* End Statistic Styling */
+
+
+/* Start Skills Styling:- */
+
+.skills {
+    padding: var(--up-down-padding, 60px) 0;
+}
+
+.skills .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skills .container .right,
+.skills .container .left {
+    width: calc(50% - 60px);
+}
+
+@media (max-width: 991px) {
+    .skills .container {
+        flex-direction: column;
+    }
+    .skills .container .right,
+    .skills .container .left {
+        width: 100%;
+    }
+}
+
+
+/* Start Left Styling:- */
+
+.skills .container .left .cont {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skills .container .left .cont .data .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.skills .container .left .cont .data .item div:first-child {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: var(--up-down-padding, 60px);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.skills .container .left .cont .data .item div:first-child img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.skills .container .left .cont .data .item div:last-child {
+    width: calc(100% - 180px);
+    display: flex;
+    flex-direction: column;
+}
+
+.skills .container .left .cont .data .item div:last-child p {
+    color: var(--main-background-color, #1f2021);
+}
+
+.skills .container .left .cont .data .item div:last-child label {
+    font-style: italic;
+    color: var(--main-para-color, #a8a8a8);
+    text-transform: capitalize;
+    text-align: end;
+}
+
+.skills .container .left .cont .data .item div:last-child label span {
+    text-transform: uppercase;
+}
+
+.skills .container .left .cont .data .item div:last-child hr {
+    opacity: 0.5;
+    color: var(--main-para-color, #a8a8a8);
+    width: 100%;
+}
+
+.skills .container .left .cont .circles {
+    bottom: 0;
+}
+
+.skills .container .left .cont .circles>div {
+    border-color: #CCC;
+}
+
+.skills .container .left .cont .circles>div:nth-child(2) {
+    border-color: var(--main-color, #00c7fc);
+}
+
+@media (max-width: 991px) {
+    .skills .container .left {
+        padding-bottom: var(--up-down-padding, 60px);
+    }
+}
+
+@media (max-width: 575px) {
+    .skills .container .left .cont .data .item {
+        flex-direction: column;
+    }
+    .skills .container .left .cont .data .item div:first-child {
+        margin-right: 0;
+        margin-bottom: var(--element-padding, 15px);
+    }
+    .skills .container .left .cont .data .item div:last-child {
+        width: 100%;
+    }
+    .skills .container .left .cont .data .item div:last-child p {
+        text-align: center;
+    }
+}
+
+
+/* End Left Styling */
+
+
+/* Start Right Styling:- */
+
+.skills .container .right .cont {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills .container .right .cont .parsent {
+    position: relative;
+}
+
+.skills .container .right .cont .parsent p {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.skills .container .right .cont .parsent .bar div::before {
+    color: var(--white-color, #FFF);
+    background-color: var(--footer-main-color, #121116);
+    font-size: 0.7rem;
+    padding: 3px 5px;
+    position: absolute;
+    top: 0%;
+    transform: translateY(50%);
+    -webkit-transform: translateY(50%);
+    -moz-transform: translateY(50%);
+    -ms-transform: translateY(50%);
+    -o-transform: translateY(50%);
+}
+
+.skills .container .right .cont .parsent .bar {
+    width: 100%;
+    height: 20px;
+    background-color: #dbdbdb;
+}
+
+.skills .container .right .cont .parsent .bar div::after {
+    content: "";
+    border: 5px solid;
+    background-color: transparent;
+    border-color: black transparent transparent;
+    position: absolute;
+    bottom: 55%;
+    transform: translateY(100%);
+    -webkit-transform: translateY(100%);
+    -moz-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    -o-transform: translateY(100%);
+}
+
+.skills .container .right .cont .parsent:first-child .bar div::before {
+    content: "95%";
+    left: calc(95% - 13px);
+}
+
+.skills .container .right .cont .parsent:first-child .bar div {
+    height: 20px;
+    width: 95%;
+    background-color: var(--main-color, #00c7fc);
+}
+
+.skills .container .right .cont .parsent:first-child .bar div::after {
+    left: calc(95% - 6px);
+}
+
+.skills .container .right .cont .parsent:nth-child(2) .bar div::before {
+    content: "93%";
+    left: calc(93% - 13px);
+}
+
+.skills .container .right .cont .parsent:nth-child(2) .bar div {
+    height: 20px;
+    width: 93%;
+    background-color: var(--main-color, #00c7fc);
+}
+
+.skills .container .right .cont .parsent:nth-child(2) .bar div::after {
+    left: calc(93% - 6px);
+}
+
+.skills .container .right .cont .parsent:nth-child(3) .bar div::before {
+    content: "85%";
+    left: calc(85% - 13px);
+}
+
+.skills .container .right .cont .parsent:nth-child(3) .bar div {
+    height: 20px;
+    width: 85%;
+    background-color: var(--main-color, #00c7fc);
+}
+
+.skills .container .right .cont .parsent:nth-child(3) .bar div::after {
+    left: calc(85% - 6px);
+}
+
+.skills .container .right .cont .parsent:last-child .bar div::before {
+    content: "87%";
+    left: calc(87% - 13px);
+}
+
+.skills .container .right .cont .parsent:last-child .bar div {
+    height: 20px;
+    width: 87%;
+    background-color: var(--main-color, #00c7fc);
+}
+
+.skills .container .right .cont .parsent:last-child .bar div::after {
+    left: calc(87% - 6px);
+}
+
+
+/* End Right Styling */
+
+
+/* End Skills Styling */
+
+
+/* Start Quote Styling:- */
+
+.quote {
+    padding: var(--small-sec-padding, 100px) 0;
+    color: var(--white-color, #FFF);
+    text-align: center;
+    background-image: url(../Data/6.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.quote .container h1 {
+    text-transform: uppercase;
+    font-weight: var(--header-font-weight, 400);
+}
+
+.quote .container p {
+    text-transform: capitalize;
+}
+
+@media (max-width: 475px) {
+    .quote .container h1 {
+        font-size: 1.5rem;
+    }
+}
+
+
+/* End Quote Styling */
+
+
+/* Start Pricing Styling:- */
+
+.pricing {
+    padding: var(--up-down-padding, 60px) 0;
+}
+
+.pricing .container .cont {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--element-padding, 15px);
+}
+
+.pricing .container .cont .package {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--main-background-color, #1f2021);
+}
+
+.pricing .container .cont .package hr {
+    color: var(--main-color, #00c7fc);
+    width: 85%;
+}
+
+.pricing .container .cont .package .price {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.pricing .container .cont .package .price p {
+    text-transform: uppercase;
+}
+
+.pricing .container .cont .package .price h1::before {
+    content: "$";
+    font-size: 1rem;
+    font-weight: var(--header-font-weight, 400);
+    position: absolute;
+    top: 0;
+    left: -15px;
+}
+
+.pricing .container .cont .package .price h1 {
+    font-size: 3rem;
+    position: relative;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+.pricing .container .cont .package .price h1::after {
+    content: "/mo";
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: var(--header-font-weight, 400);
+    position: absolute;
+    bottom: 0;
+    right: -40px;
+}
+
+.pricing .container .cont .package .feats {
+    padding: 0 var(--up-down-padding, 60px);
+}
+
+.pricing .container .cont .package .btn input[type="button"] {
+    background-color: var(--white-color, #FFF);
+    color: var(--main-color, #00c7fc);
+}
+
+.pricing .container .cont .package .btn input[type="button"]:hover {
+    background-color: var(--main-color, #00c7fc);
+    color: var(--white-color, #FFF);
+}
+
+.pricing .container .btn {
+    padding-top: var(--up-down-padding, 60px);
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+}
+
+.pricing .container .btn p {
+    color: var(--main-background-color, #1f2021);
+}
+
+@media (max-width: 1199px) {
+    .pricing .container .cont .package:last-child {
+        margin-top: var(--up-down-padding, 60px);
+    }
+}
+
+@media (max-width: 991px) {
+    .pricing .container .cont .package:last-child,
+    .pricing .container .cont .package:nth-last-child(2) {
+        margin-top: var(--up-down-padding, 60px);
+    }
+}
+
+@media (max-width: 534px) {
+    .pricing .container .cont .package:last-child,
+    .pricing .container .cont .package:nth-last-child(2),
+    .pricing .container .cont .package:nth-last-child(3) {
+        margin-top: var(--up-down-padding, 60px);
+    }
+}
+
+
+/* End Pricing Styling */
+
+
+/* Start Subscribe Styling:- */
+
+.subscribe {
+    padding: var(--up-down-padding, 60px) 0;
+    background-image: url(../Data/6.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.subscribe .container {
+    color: var(--white-color, #FFF);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subscribe .container .left,
+.subscribe .container .right {
+    width: calc(50% - 15px);
+}
+
+.subscribe .container .left {
+    background-color: var(--main-background-color, #1f2021);
+    border: 1px solid var(--white-color, #FFF);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subscribe .container .left input[type="text"] {
+    width: calc(100% - 170px);
+    padding: var(--element-padding, 15px) 0;
+    outline: 0;
+    border: 0;
+    background-color: var(--main-background-color, #1f2021);
+    caret-color: var(--white-color, #FFF);
+    color: var(--white-color, #FFF);
+}
+
+.subscribe .container .left input[type="text"]::-moz-placeholder {
+    color: var(--white-color, #FFF);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.subscribe .container .left input[type="text"]::-webkit-input-placeholder {
+    color: var(--white-color, #FFF);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.subscribe .container .left input[type="text"]:-ms-input-placeholder {
+    color: var(--white-color, #FFF);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.subscribe .container .left input[type="text"]::-ms-input-placeholder {
+    color: var(--white-color, #FFF);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.subscribe .container .left input[type="text"]::placeholder {
+    color: var(--white-color, #FFF);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.subscribe .container .left ion-icon {
+    padding: 0 var(--element-padding, 15px);
+}
+
+.subscribe .container .left input[type="button"] {
+    padding: 17px 20px;
+    border-color: var(--white-color, #FFF) var(--white-color, #FFF) var(--white-color, #FFF) var(--main-color, #00c7fc);
+}
+
+.subscribe .container .right {
+    line-height: 1.6;
+}
+
+@media (max-width:991px) {
+    .subscribe .container {
+        flex-direction: column;
+    }
+    .subscribe .container .left,
+    .subscribe .container .right {
+        width: 100%;
+    }
+    .subscribe .container .right {
+        padding-top: var(--element-padding, 15px);
+        text-align: center;
+    }
+}
+
+@media (max-width:450px) {
+    .subscribe .container .left input[type="button"] {
+        padding: 20px 10px;
+        font-size: 0.7rem;
+    }
+}
+
+
+/* End Subscribe Styling */
+
+
+/* Start Contact Styling:- */
+
+.contact {
+    padding: var(--up-down-padding, 60px) 0;
+}
+
+.contact .container .cont ::-webkit-input-placeholder {
+    color: var(--main-background-color, #1f2021);
+    text-transform: uppercase;
+    font-weight: 400;
+    opacity: 1;
+    font-size: 0.9rem;
+}
+
+.contact .container .cont ::-moz-placeholder {
+    color: var(--main-background-color, #1f2021);
+    text-transform: uppercase;
+    font-weight: 400;
+    opacity: 1;
+    font-size: 0.9rem;
+}
+
+.contact .container .cont :-ms-input-placeholder {
+    color: var(--main-background-color, #1f2021);
+    text-transform: uppercase;
+    font-weight: 400;
+    opacity: 1;
+    font-size: 0.9rem;
+}
+
+.contact .container .cont ::-ms-input-placeholder {
+    color: var(--main-background-color, #1f2021);
+    text-transform: uppercase;
+    font-weight: 400;
+    opacity: 1;
+    font-size: 0.9rem;
+}
+
+.contact .container .cont ::placeholder {
+    color: var(--main-background-color, #1f2021);
+    text-transform: uppercase;
+    font-weight: 400;
+    opacity: 1;
+    font-size: 0.9rem;
+}
+
+.contact .container .cont {
+    max-width: 1000px;
+    text-transform: uppercase;
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.contact .container .cont .left,
+.contact .container .cont .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contact .container .cont .left div:first-child input {
+    padding: var(--element-padding, 15px);
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.contact .container .cont .left {
+    width: calc(100% - 190px);
+}
+
+.contact .container .cont .right {
+    padding-left: 30px;
+}
+
+.contact .container .cont .left div:last-child,
+.contact .container .cont .left div:last-child textarea {
+    width: 100%;
+}
+
+.contact .container .cont .left div:last-child textarea {
+    padding: var(--element-padding, 15px);
+    min-height: 52px;
+    max-width: 100%;
+}
+
+.contact .container .cont h3 {
+    margin-top: 0;
+    font-weight: var(--header-font-weight, 400);
+}
+
+.contact .container .cont p {
+    color: var(--main-para-color, #a8a8a8);
+}
+
+.contact .container .cont address {
+    font-style: normal;
+    text-transform: capitalize;
+    color: var(--main-para-color, #a8a8a8);
+}
+
+.contact .container .cont address span {
+    text-transform: uppercase;
+}
+
+@media (max-width: 575px) {
+    .contact .container .cont {
+        flex-direction: column;
+    }
+    .contact .container .cont .left,
+    .contact .container .cont .right {
+        width: 100%;
+    }
+    .contact .container .cont .left {
+        margin-bottom: var(--up-down-padding, 60px);
+    }
+    .contact .container .cont .right {
+        flex-direction: row;
+        justify-content: space-around;
+        padding-left: 0;
+    }
+}
+
+@media (max-width: 375px) {
+    .contact .container .cont .right {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;
+        text-align: center;
+    }
+    .contact .container .cont .right div:first-child {
+        padding-bottom: 30px;
+    }
+}
+
+
+/* End Contact Styling */
+
+
+/* Start Top Styling:- */
+
+.Top {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+.Top a i {
+    border: 1px solid var(--main-color, #00c7fc);
+    padding: var(--element-padding, 15px) 10px;
+    color: var(--white-color, #FFF);
+    background-color: var(--main-color, #00c7fc);
+}
+
+.Top a i:hover {
+    color: var(--main-color, #00c7fc);
+    background-color: var(--white-color, #FFF);
+}
+
+
+/* End Top Styling */
+
+
+/* End Main Styling */
+
+
+/* Start Footer Styling:- */
+
+footer {
+    padding: var(--element-padding, 15px);
+    text-transform: capitalize;
+    background-image: url(../Data/12.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+footer .container {
+    width: 265px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: var(--white-color, #FFF);
+}
+
+footer .container .cont {
+    padding: var(--up-down-padding, 60px);
+}
+
+footer .container .cont div:first-child img {
+    width: 100%;
+}
+
+footer .container .cont p {
+    text-transform: uppercase;
+}
+
+footer .container .cont hr {
+    border-color: var(--white-color, #FFF);
+}
+
+footer .container .cont .social-icons {
+    padding-top: var(--element-padding, 15px);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer .container .cont .social-icons ion-icon {
+    color: var(--white-color, #FFF);
+    font-size: 1.5rem;
+}
+
+footer .container .cont .social-icons ion-icon:hover {
+    color: var(--main-color, #00c7fc);
+}
+
+footer .container .rights p {
+    color: var(--white-color, #FFF);
+}
+
+footer .container .rights p span {
+    color: var(--main-color, #00c7fc);
+}
+
+footer .container .rights p:last-child {
+    font-size: 0.8rem;
+}
+
+
+/* End Footer Styling */
